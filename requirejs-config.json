@@ -1,0 +1,10 @@
+{
+    "paths": {
+        ".":  "./underscore"
+    },
+    "shim": {
+        ".": {
+            "exports": "_"
+        }
+    }
+}
